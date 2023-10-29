@@ -1,36 +1,34 @@
-# Web Development Project 4 - *API Component Cycle*
+# Web Development Project 6 - *React Router*
 
 Submitted by: **Faisal Rasheed Khan**
 
-This web app: **Component cycle using API**
+This web app: **React Router Cat API**
 
-Time spent: **8** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [x] **Clicking a button creates a new API fetch request and displays at least three attributes from the returned JSON data**
-- [x] **Only one item/API call is viewable at a time**
-- [x] **API calls appear random to the user**
-- [x] **At least one image is displayed per API call**
-- [x] **Clicking on a displayed value for one attribute adds it to a displayed ban list**
-- [x] **Attributes on the ban list prevent further images/API results with that attribute from being displayed**
+- [x] **The app includes at least one unique chart developed using the fetched data that tell an interesting story**
+- [x] **Clicking on an item in the list view displays more details about it**
+- [x] **Clicking on an item has a direct, unique link to that item's detail view page**
+
 
 The following **optional** features are implemented:
 
-- [ ] Multiple types of attributes can be added to the ban list
-- [ ] Users can see a stored history of their previously viewed items from their session
+- [ ] The site's customized dashboard contains more content that explains what is interesting about the data
+- [ ] The site allows users to toggle between different data visualizations
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you added to improve the site's functionality!
+* [x] Dynamically changes the bar plot if filters are applied
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/Rz49Z5O.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/iNraeWR.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
